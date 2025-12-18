@@ -249,3 +249,4 @@ else:
     st.info("📤 Please upload a CSV file to get started.")
 
 
+# EDA Streamlit Application
