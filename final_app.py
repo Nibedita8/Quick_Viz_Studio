@@ -247,3 +247,5 @@ if uploaded_file is not None:
 else:
     st.sidebar.warning("⚠️ No file uploaded yet.")
     st.info("📤 Please upload a CSV file to get started.")
+
+
